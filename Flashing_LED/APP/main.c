@@ -2,7 +2,7 @@
  * main.c
  *
  *  Created on: Oct 21, 2022
- *      Author: pc
+ *      Author: Nada Mamdouh
  */
 #include "../LIB/STD_Types.h"
 #include "../MCAL/DIO/DIO_int.h"

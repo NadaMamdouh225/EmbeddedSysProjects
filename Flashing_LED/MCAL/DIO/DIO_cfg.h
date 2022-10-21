@@ -2,7 +2,7 @@
  * DIO_cfg.h
  *
  *  Created on: Oct 21, 2022
- *      Author: pc
+ *      Author: Nada Mamdouh
  */
 
 #ifndef MCAL_DIO_DIO_CFG_H_
